@@ -1,0 +1,6 @@
+*.o
+*.tmp
+*.vscode
+*.json
+/private
+/keys
